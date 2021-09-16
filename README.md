@@ -2,8 +2,6 @@
 
 ## Source code & dataset for testing (12 modulations): https://drive.google.com/drive/folders/1NxIhh46eEStE0Tn4bRBNa1V-sZyzop6F?usp=sharing
 
-## The experiment is based on tensorflow, 
-
 ## Dependencies
 
 Part of the needed dependencies are listed as below for the experiment, you can run the demo directly on GOOGLE COLAB without environment configuration.
