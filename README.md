@@ -15,7 +15,7 @@ keras (2.3.1)
 ## To run
 
 ```
-Download folder to google drive './My Drive/';
+Download folder to google drive './My Drive/'
 
 Run the demo
 
