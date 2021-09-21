@@ -7,9 +7,10 @@
 Part of the needed dependencies are listed as below for the experiment, you can run the demo directly on GOOGLE COLAB without environment configuration.
 
 ```
-python 3.7.11
-tensorflow(1.15.2)
 keras (2.3.1)
+python (3.7.11)
+tensorflow (1.15.2)
+
 ```
 
 ## To run
