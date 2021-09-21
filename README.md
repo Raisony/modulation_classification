@@ -16,7 +16,7 @@ tensorflow (1.15.2)
 ## To run
 
 ```
-Download folder to google drive './My Drive/'
+Download and unzip the dataset to google drive './My Drive/'
 
 Run the demo
 
